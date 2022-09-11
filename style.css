@@ -1,0 +1,32 @@
+body {
+  min-height: 2500px;
+  font-family: cursive, Lucida;
+}
+.navbar {
+  font-family: cursive, Lucida;
+  font-weight: bold;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #d6ecef;
+}
+#education {
+  background-color: #d6ecef;
+}
+
+#contact {
+  background-color: #d6ecef;
+}
+section {
+  padding-top: 5rem;
+}
+.social {
+  grid-template-columns: max-content;
+}
+.fa {
+  font-size: 30px;
+  justify-content: space-between;
+}
+.text-center {
+  font-size: 15px;
+}
